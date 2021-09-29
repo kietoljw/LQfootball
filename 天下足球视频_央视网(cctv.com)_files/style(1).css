@@ -1,0 +1,34 @@
+.lvZ7967_ind02 .head_msg {
+	position:absolute;
+	width:236px;
+	right:0px;
+	top:48px;
+	z-index:2;
+	padding:13px;
+}
+.lvZ7967_ind02 .head_msg td {
+	color:#fff;
+	font-family:"宋体";
+	font-size:14px;
+	line-height:20px;
+}
+.lvZ7967_ind02 .head_msg a {
+	color:#fff;
+}
+.lvZ7967_ind02 .head_msg_bg {
+	position:absolute;
+	height:169px;
+	width:262px;
+	right:0px;
+	top:48px;
+	z-index:1;
+	background:url(//p4.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/head_msg_130502.png) no-repeat;
+	_background:none;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src="//p3.img.cctvpic.com/photoAlbum/templet/common/DEPA1367457523502574/head_msg_130502.png");
+}
+.lvZ7967_ind02 {
+	width:960px;
+	margin:0 auto;
+	height:180px;
+	position:relative;
+}
